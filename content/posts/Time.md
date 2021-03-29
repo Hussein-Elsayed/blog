@@ -2,6 +2,10 @@
 title: "Time HTB Writeup"
 date: 2021-03-26T4:42:47+02:00
 draft: false
+Tags: [
+    "Writeups",
+    "hackthebox",
+]
 ---
 ![The machine info](/images/1.png)
 
