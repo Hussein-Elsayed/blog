@@ -76,12 +76,12 @@ so now let's see what's over there..
 i also ran dirsearch again on the luanne.htb/weather >> but got nothing.
 then i tried to search with the CVEs about nginx with version 1.9.0 and openssh but nothing usefull. so i turned back to enumeration.
 
-This time using a begger wordlist and gobuster.
+This time using a bigger wordlist and gobuster.
 ### Gobuster:
 * gobuster dir -u http://luanne.htb/weather -w /usr/share/dirb/wordlists/big.txt
 ![](/images/luanne/11.png)
 ![found this /forecast path](/images/luanne/12.png)
-we could have used dirsearch too, but gobuster is faster in this case with big wordlists.
+we could have used dirsearch too, but gobuster is faster in this case with bigger wordlists.
 
 ### Time for Web Enumeration:
 * going to /weather/forecast:

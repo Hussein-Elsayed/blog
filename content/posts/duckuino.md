@@ -2,6 +2,9 @@
 title: "Duckuino"
 date: 2020-01-08T14:42:08+02:00
 draft: false
+Tags: [
+    "projects",
+]
 ---
 ![](/images/duckuino/duck.jpeg)
 **It came to my mind to make a rubber ducky using arduino uno which i already have .. so let's get started.**
