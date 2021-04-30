@@ -106,7 +106,7 @@ disqusShortname = "disqus_NIRv8ve7PS"
     #Steam = "xxxx"
     #Twitch = "xxxx"
     #Strava = ""
-    #Hackthebox = "https://www.hackthebox.eu/home/users/profile/182588"
+    Hackthebox = "182588"
     #Skype = "xxxx"
     #Whatsapp = "xxxx"
     #Zhihu = "xxxx"
@@ -136,6 +136,7 @@ Linkedin = true
 #VKontakte = true
 #Douban = true
 #Weibo = true
+Hackthebox = true
 
 # Used only for Seo schema
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
