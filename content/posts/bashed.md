@@ -6,6 +6,8 @@ Tags: [
     "Writeups",
     "hackthebox",
     "retired",
+    "easy",
+    "linux",
 ]
 ---
 ![Machine Info](/images/bashed/1.png)

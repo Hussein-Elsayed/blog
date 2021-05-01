@@ -6,6 +6,8 @@ Tags: [
     "Writeups",
     "hackthebox",
     "retired",
+    "easy",
+    "linux",
 ]
 ---
 ![Machine Info](/images/shocker/1.png)

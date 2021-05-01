@@ -6,8 +6,9 @@ Tags: [
     "Writeups",
     "hackthebox",
     "retired",
-    "endgame",
+    "endgames",
     "active directory",
+    "windows",
 ]
 ---
 ![Machines Info](/images/poo/1.png)

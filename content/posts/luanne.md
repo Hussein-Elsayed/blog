@@ -5,6 +5,9 @@ draft: false
 Tags: [
     "Writeups",
     "hackthebox",
+    "retired",
+    "easy",
+    "FreeBSD",
 ]
 ---
 ![Machine Info](/images/luanne/1.png)

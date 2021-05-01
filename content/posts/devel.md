@@ -6,6 +6,8 @@ Tags: [
     "Writeups",
     "hackthebox",
     "retired",
+    "easy",
+    "windows",
 ]
 ---
 ![Machine Info](/images/devel/1.png)

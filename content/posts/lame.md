@@ -6,7 +6,8 @@ Tags: [
     "Writeups",
     "hackthebox",
     "retired",
-
+    "easy",
+    "linux",
 ]
 ---
 ![Machine info](/images/lame/1.png)

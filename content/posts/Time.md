@@ -5,6 +5,9 @@ draft: false
 Tags: [
     "Writeups",
     "hackthebox",
+    "retired",
+    "medium",
+    "linux",
 ]
 ---
 ![Machine info](/images/time/1.png)

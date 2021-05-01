@@ -6,6 +6,8 @@ Tags: [
     "Writeups",
     "hackthebox",
     "retired",
+    "easy",
+    "FreeBSD",
 ]
 ---
 ![Machine Info](/images/sense/1.png)

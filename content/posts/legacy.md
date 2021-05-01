@@ -3,10 +3,11 @@ title: "Legacy HTB Writeup"
 date: 2021-04-04T23:15:54+02:00
 draft: false
 Tags: [
-	"Writeups",
-	"hackthebox",
-	"retired",
-
+    "Writeups",
+    "hackthebox",
+    "retired",
+    "easy",
+    "windows",
 ]
 ---
 ![Machine info](/images/legacy/1.png)

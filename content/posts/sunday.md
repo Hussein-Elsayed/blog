@@ -6,6 +6,8 @@ Tags: [
     "Writeups",
     "hackthebox",
     "retired",
+    "easy",
+    "solaris",
 ]
 ---
 ![Machine Info](/images/sunday/1.png)

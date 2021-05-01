@@ -3,8 +3,11 @@ title: "CrossFit HTB Writeup"
 date: 2021-03-31T15:35:44+02:00
 draft: false
 Tags: [
-	"Writeups",
-	"hackthebox",
+    "Writeups",
+    "hackthebox",
+    "retired",
+    "insane",
+    "linux",
 ]
 ---
 ![Machine info](/images/crossfit/1.png)
