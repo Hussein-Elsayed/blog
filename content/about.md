@@ -9,10 +9,10 @@ aliases = ["about-us","about-hugo","contact"]
 
 ## Hello world!
 
-* **This is Hussein Elsayed as ``Wh1rlw1nd``, Mechatronics Engineer .. Enthusiastic about CyberSecurity, Penetration Tester and a Red Teamer wannabe.**
+* **This is Hussein Elsayed aka ``Wh1rlw1nd``, Cybersecurity consultant .. Enthusiastic about CyberSecurity, Penetration Tester and a Red Teamer wannabe.**
 
 * **Here i'm sharing with you my thoughts and any knowledge i got so far.**
-  * CTF challenges, Machines writeups or articles and notes on certain topics ..
+  * CTF challenges, Machines' writeups or articles and notes on certain topics ..
 
 ### My Hackthebox [account](https://www.hackthebox.eu/home/users/profile/182588) 
 
